@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Ana",
+    "email": "ana@example.com",
+    "age": 25,
+    "country": "MX",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Luis",
+    "email": "luis@example.com",
+    "age": 17,
+    "country": "MX",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Sofia",
+    "email": "sofia@example.com",
+    "age": 31,
+    "country": "ES",
+    "active": false
+  },
+  {
+    "id": 4,
+    "name": "Carlos",
+    "email": "carlos@example.com",
+    "age": 28,
+    "country": "MX",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Marta",
+    "email": "marta@example",
+    "age": 42,
+    "country": "MX",
+    "active": true
+  }
+]
